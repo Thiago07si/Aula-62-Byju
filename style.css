@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#app{
+    background-color: rgb(60, 210, 105);
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.tamanho{
+    height: 40%;
+    width: 40%;
+
+}
+#myCarousel {
+    background-color: rgb(255, 74, 74);
+}
+#myCarousel img {
+height: 300px;
+margin-top: 35px;
+}
+.carousel-inner p
+{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
